@@ -13,6 +13,7 @@ To run this project successfully on your system, make sure the following are ins
 	b) numpy
 	c) matplotlib
 	d) mysql-connector-python
+	e) datetime
 
 ⚠️ Note: You may encounter some minor bugs, especially in features like graph rendering or channel updates. I appreciate your understanding and apologize for any inconvenience.
 
